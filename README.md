@@ -67,33 +67,6 @@ Gio@github
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </p>
 
-
-## 📊 Estadísticas de GitHub
-
-
-| Estadísticas de Gio |
-|:---:|
-| ![Gio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Russianf2&show_icons=true&theme=tokyonight&hide_border=true) |
-
-
-| Mis Estrellas | Top Lenguajes |
-|:---:|:---:|
-| ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas&disable_animations=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&langs_count=8&theme=tokyonight&layout=compact&hide_border=true) |
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## ¡Trabajemos juntos en tu proyecto!
-
-Si tienes alguna pregunta sobre desarrollo web o diseño gráfico, no dudes en <a href="mailto:ramosgiorgios44@gmail.com">contactarme por email</a>.
-
-También puedes encontrarme en mis redes para colaboraciones o proyectos freelance.
-
-  </td>
-  <td width="50%" valign="top">
-
 ## ¿No es perfecto, verdad?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Pregúntame-lo%20que%20quieras-1abc9c.svg">**
