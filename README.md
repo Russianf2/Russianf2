@@ -73,9 +73,7 @@ Gio@github
 
 | Estadísticas de Gio |
 |:---:|
-| ![Gio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=russianf2theme=react-dark&hide_border=true&area=true) |
-| ![Gio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=russianf2&show_icons=true&theme=tokyonight&hide_border=true) |
-| ![Gio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russianf2&theme=tokyonight&hide_border=true) |
+| ![Gio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Russianf2&show_icons=true&theme=tokyonight&hide_border=true) |
 
 
 | Mis Estrellas | Top Lenguajes |
